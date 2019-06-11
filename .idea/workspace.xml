@@ -3,19 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ff59689a-ebae-47d5-bedc-14f8e220a760" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Area.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Area.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ColdStorage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ColdStorage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Details.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Details.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Headquarters.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Headquarters.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Host.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Host.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/HostInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HostInfo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HostList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HostList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/LogPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LogPanel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WestworldMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WestworldMap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/Log.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/Log.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/stylesheets/App.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,13 +52,25 @@
       </split-first>
       <split-second>
         <leaf>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/App.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="250">
                   <caret line="117" column="16" selection-start-line="117" selection-start-column="16" selection-end-line="117" selection-end-column="16" />
                   <folding>
                     <element signature="e#0#41#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/components/HostInfo.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="171">
+                  <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+                  <folding>
+                    <element signature="e#0#36#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -105,12 +105,12 @@
         <option value="$PROJECT_DIR$/src/stylesheets/App.css" />
         <option value="$PROJECT_DIR$/src/components/WestworldMap.js" />
         <option value="$PROJECT_DIR$/src/components/Details.js" />
-        <option value="$PROJECT_DIR$/src/components/HostInfo.js" />
         <option value="$PROJECT_DIR$/src/components/Area.js" />
         <option value="$PROJECT_DIR$/src/services/Log.js" />
         <option value="$PROJECT_DIR$/src/components/Headquarters.js" />
         <option value="$PROJECT_DIR$/src/components/LogPanel.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/HostInfo.js" />
       </list>
     </option>
   </component>
@@ -199,21 +199,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560021414905</updated>
-      <workItem from="1560021416504" duration="31260000" />
+      <workItem from="1560021416504" duration="31619000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31260000" />
+    <option name="totallyTimeSpent" value="31619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.13553114" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.13553114" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.27972028" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.27876985" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
@@ -342,16 +342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/HostInfo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Host.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -422,6 +412,16 @@
           <caret line="117" column="16" selection-start-line="117" selection-start-column="16" selection-end-line="117" selection-end-column="16" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/HostInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
